@@ -2,6 +2,7 @@
 layout: page
 title: Orgeldisposition
 permalink: /orgeldisposition/
+order: 2
 ---
 
 # Die große Orgel in der Christuskirche in Hamburg Eimsbüttel

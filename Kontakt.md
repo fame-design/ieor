@@ -2,6 +2,7 @@
 layout: page
 title: Kontakt
 permalink: /kontakt/
+order: 6
 ---
 
 image (soon tm)
