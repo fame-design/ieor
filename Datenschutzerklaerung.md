@@ -2,6 +2,7 @@
 layout: page
 title: Datenschutzerklärung
 permalink: /datenschutzerklaerung/
+order: 7
 ---
 
 # Server-Log-Files

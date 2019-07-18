@@ -2,6 +2,7 @@
 layout: page
 title: Freundeskreis
 permalink: /freundeskreis/
+order: 4
 ---
 
 Der Freundeskreis der Kirchenmusik  

@@ -2,6 +2,7 @@
 layout: page
 title: Konzerte
 permalink: /konzerte/
+order: 3
 ---
 
 Christuskirche  

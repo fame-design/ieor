@@ -2,6 +2,7 @@
 layout: page
 title: Willkommen
 permalink: /
+order: 1
 ---
 
 Wir heißen Sie herzlich willkommen auf unserer website.  
