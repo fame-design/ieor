@@ -8,4 +8,4 @@ order: 3
 Christuskirche  
 
 Eine programmatische Übersicht  
-der Konzerte des XVII. Internationalen Eimsbüttler Orgelsommers 2019 finden Sie: [hier](http://pdf.ieor.de/ieor_konzerte.pdf){:target="_blank"}
+der Konzerte des XVII. Internationalen Eimsbüttler Orgelsommers 2019 finden Sie: [hier](/assets/pdf/ieor_konzerte.pdf){:target="_blank"}
