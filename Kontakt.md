@@ -5,7 +5,7 @@ permalink: /kontakt/
 order: 6
 ---
 
-image (soon tm)
+{% asset Constanze_Kowalski_kontakt.png %}
 
 **Constanze Kowalski**  
 Regionalkantorin  
