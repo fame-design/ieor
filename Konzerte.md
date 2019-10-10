@@ -5,7 +5,8 @@ permalink: /konzerte/
 order: 3
 ---
 
-Christuskirche  
+Christuskirche
 
-Eine programmatische Übersicht  
-der Konzerte des XVII. Internationalen Eimsbüttler Orgelsommers 2019 finden Sie: [hier](/assets/pdf/ieor_konzerte.pdf){:target="_blank"}
+Das Gesamtprogramm der TAGE ALTER MUSIK 2019
+
+finden Sie [hier:](/assets/pdf/ieor_konzerte.pdf){:target="_blank"}
