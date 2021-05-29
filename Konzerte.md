@@ -7,6 +7,7 @@ order: 3
 
 Christuskirche
 
-Das Gesamtprogramm der TAGE ALTER MUSIK 2019
+Alle Konzerte des
+INTERNATIONALEN EIMSBÜTTLER ORGELSOMMERS 2020
 
-finden Sie [hier:](/assets/pdf/ieor_konzerte.pdf){:target="_blank"}
+[hier:](/assets/pdf/ieor_konzerte.pdf){:target="_blank"}

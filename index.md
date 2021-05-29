@@ -7,7 +7,7 @@ order: 1
 
 Wir heißen Sie herzlich willkommen auf unserer website.  
 
-Seit nunmehr über siebzehn Jahren gibt es in jedem Sommer Orgelkonzerte mit internationalen Gästen an der Beckerath-Orgel in der Christuskirche in Hamburg Eimsbüttel. An jedem Sonnabend in der Sommerzeit spielen Künstler aus der ganzen Welt um 12 Uhr Mittags ein ca. einstündiges Programm.
+Seit nunmehr über neunzehn Jahren gibt es in jedem Sommer Orgelkonzerte mit internationalen Gästen an der Beckerath-Orgel in der Christuskirche in Hamburg Eimsbüttel. An jedem Sonnabend in der Sommerzeit spielen Künstler aus der ganzen Welt um 12 Uhr Mittags ein ca. einstündiges Programm.
 
 Die Orgelkonzerte kosten keinen Eintritt. Am Ausgang wird um eine Spende für die Kirchenmusik an der Christuskirche gebeten.
 
