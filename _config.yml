@@ -31,11 +31,26 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
+
+# What’s new is that this array does not get overridden by the exclude array in the user’s config file anymore. The user’s exclude entries simply get added to the above default array (if the entry isn’t already excluded).
+
 # exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules
+#   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# To forcibly “process” directories or files that have been excluded, list them in the include array instead:
+
+# Note that the default include array still gets overridden by the include array in your config file. So, be sure to add .htaccess to the list if you need that file to be present in the generated site.
+
+# overrides your excluded items configuration and the default include array ([".htaccess"])
+# include:
+#   - .htaccess
+#   - node_modules/uglifier/index.js
